@@ -1,0 +1,2 @@
+# kooganbot
+my bot
